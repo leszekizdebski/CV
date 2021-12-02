@@ -64,10 +64,6 @@ body {
     padding: 0 20px;
 }
 
-.resume .title {
-    margin-bottom: 1px;
-}
-
 .resume .resume_left .bold {
     color: #fff;
 }
@@ -79,7 +75,7 @@ body {
 }
 
 .resume .resume_left .resume_item {
-    padding: 15px 0;
+    padding: 10px 0;
     border-bottom: 2px solid #ffffff;
 }
 
@@ -147,8 +143,8 @@ body {
     border-collapse: collapse;
 }
 
-.resume .resume_left .resume_skills .languages{
-    font-size: 17px;
+.resume .resume_left .resume_languages{
+    font-size: 15px; 
     color: white;
     font-weight: bold;
     text-transform: uppercase; 

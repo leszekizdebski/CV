@@ -65,7 +65,7 @@ body {
 }
 
 .resume .title {
-    margin-bottom: 15px;
+    margin-bottom: 1px;
 }
 
 .resume .resume_left .bold {
@@ -79,7 +79,7 @@ body {
 }
 
 .resume .resume_left .resume_item {
-    padding: 25px 0;
+    padding: 15px 0;
     border-bottom: 2px solid #ffffff;
 }
 
@@ -135,13 +135,12 @@ body {
 
 .resume .resume_left .resume_skills ul li {
     display: flex;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     color: white;
     align-items: center;
 }
 
 .resume .resume_left .resume_skills ul li .blueTable {
-    width: 500%;
     border: 0px solid #1C6EA4;
     width: 100%;
     text-align: center;
@@ -153,11 +152,12 @@ body {
     color: white;
     font-weight: bold;
     text-transform: uppercase; 
+    text-align: center;
 }
 
 .resume .resume_left .resume_skills ul li .blueTable tbody td {
     font-size: 13px;
-    padding-right: px;
+    width: 10em;
 }
 
 .resume .resume_right {
